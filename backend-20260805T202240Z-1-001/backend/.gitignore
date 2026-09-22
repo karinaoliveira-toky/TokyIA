@@ -1,0 +1,6 @@
+.env
+
+# Ignorar dados confidenciais no diretório de plaintext
+data/plaintext/*.pdf
+data/plaintext/*.txt
+data/plaintext/*.csv
